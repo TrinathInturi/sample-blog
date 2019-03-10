@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deadshot's Blog"
+title                    : "Titanis Blog"
 title_separator          : "-"
 name                     : "Trinath Reddy Inturi"
 description              : "A Blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : 
 baseurl                  : 
 repository               : "trinathinturi/blog"
 teaser                   : "/assets/images/programming.png"
-logo                     : "/assets/images/programming.png"
-masthead_title           : "Deadshot's Blog"
+logo                     : "/assets/images/logo.png"
+masthead_title           : "Titanis Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -290,6 +290,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
