@@ -1,7 +1,7 @@
 # Routing in MVC
 + ASP.NET MVC routing is a pattern matching system that is responsible for mapping incoming browser requests to specified MVC controller actions. 
 + When the ASP.NET MVC application launches then the application registers one or more patterns with the framework's route table to tell the routing engine what to do with any requests that matches those patterns. 
-+ When the routing engine receives a request at runtime, it matches that request's URL against the URL patterns registered with it and gives the response according to a pattern match.<space><space>
++ When the routing engine receives a request at runtime, it matches that request's URL against the URL patterns registered with it and gives the response according to a pattern match.
 ![Routing Image](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/3d39b4/routing-in-mvc/Images/MVC.jpg)
 
 ## Properties of Route
@@ -22,3 +22,4 @@
 ```
 url: "{controller}/{action}/{id}"
 ```
+ 
