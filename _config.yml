@@ -110,7 +110,6 @@ author:
   avatar           : "/assets/images/author.jpeg"
   bio              : "I am Programming Enthusiast!"
   location         : "Hyderabad"
-  email            : "trinathreddyinturi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
