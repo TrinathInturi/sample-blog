@@ -26,7 +26,7 @@ repository               : "trinathinturi/blog"
 teaser                   : "/assets/images/programming.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : "Titanis Blog"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -64,7 +64,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -280,6 +280,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -294,3 +299,5 @@ defaults:
       comments: true
       share: true
       related: true
+
+
