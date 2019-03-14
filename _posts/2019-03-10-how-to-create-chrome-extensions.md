@@ -1,3 +1,12 @@
+---
+title: 'How to Create Crhome Extensions'
+categories: 
+  - Programming
+tags: 
+  - Web
+  - Google Chrome
+  - Extensions
+---
 # Documentation For CRX Extension
 This page gives a Brief about the steps and explanation of code involved in development of the extension
 ## Contents

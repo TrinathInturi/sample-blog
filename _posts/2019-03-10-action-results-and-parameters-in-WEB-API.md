@@ -1,4 +1,15 @@
+---
+title: "Action Results and Parameters in WEB API (ASP.NET)"
+categories: 
+    - Programming
+tags:
+    - CSharp
+    - ASP.NET
+    - MVC
+---
+
 # Action Result
+
 | Type | Helper Method() |
 |-------------------|---------------------------------------------|
 |ViewResult | View() |

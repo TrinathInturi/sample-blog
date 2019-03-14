@@ -1,3 +1,12 @@
+---
+title: "Code First Approach in Entity Framework"
+categories: 
+    - Programming
+tags:
+    - CSharp
+    - ASP.NET
+    - MVC
+---
 # Steps in Code First Approach For Entity Framework
 
 + Step:1 [Install Entity Frame Work](#install-entity-framework)

@@ -1,3 +1,11 @@
+---
+title: "Routing in ASP.NET MVC"
+categories: 
+    - Programming
+tags:
+    - ASP.NET
+    - MVC
+---
 # Routing in MVC
 + ASP.NET MVC routing is a pattern matching system that is responsible for mapping incoming browser requests to specified MVC controller actions. 
 + When the ASP.NET MVC application launches then the application registers one or more patterns with the framework's route table to tell the routing engine what to do with any requests that matches those patterns. 

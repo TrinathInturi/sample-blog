@@ -1,3 +1,11 @@
+---
+title: "Life Cycles in ASP.NET MVC"
+categories:
+  - Programming
+tags:
+  - MVC
+  - ASP.NET
+---
 # States in MVC
 1. [Application State](#application-state)
 2. [Session State](#session-state)
