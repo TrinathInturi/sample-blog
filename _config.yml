@@ -18,16 +18,16 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Titanis Blog"
 title_separator          : "-"
-name                     : "Trinath Reddy Inturi"
-description              : "A Blog"
-url                      : 
-baseurl                  : 
+name                     : &name "Trinath Reddy Inturi"
+description              : &description "Personal Blog about Technology, Programming and Gaming"
+url                      : "https://trinathinturi.github.io"
+baseurl                  : "/blog"
 repository               : "trinathinturi/blog"
 teaser                   : "/assets/images/programming.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : "Titanis Blog"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -83,18 +83,20 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "trinath_inturi"
 facebook:
-  username               :
+  username               : &facebook "trinathreddyinturi"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/trinath_inturi"
+    - "https://instagram.com/trinathreddyinturi"
 
 # Analytics
 analytics:
@@ -108,7 +110,7 @@ analytics:
 author:
   name             : "Trinath Reddy Inturi"
   avatar           : "/assets/images/author.jpeg"
-  bio              : "I am Programming Enthusiast!"
+  bio              : "I am a Programmer! I also go as Lone Elixir"
   location         : "Hyderabad"
   links:
     - label: "Email"
@@ -186,7 +188,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: utf-8
+encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
