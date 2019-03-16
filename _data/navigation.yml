@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Programming"
-    url: /categories/#programming/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "Archive"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

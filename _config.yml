@@ -65,7 +65,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-search_full_content      : # true, false (default)
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Trinath Reddy Inturi"
   avatar           : "/assets/images/author.jpeg"
-  bio              : "I am a Programmer! I also go as Lone Elixir"
+  bio              : "Programmer && Gamer"
   location         : "Hyderabad"
   links:
     - label: "Email"
@@ -137,13 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/loneelixir"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/trinathinturi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/loneelixir"
 
 
 # Reading Files
@@ -297,7 +297,14 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: true 
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 
