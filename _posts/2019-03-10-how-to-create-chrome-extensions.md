@@ -1,5 +1,5 @@
 ---
-title: 'How to Create Crhome Extensions'
+title: 'How to Create Chrome Extensions'
 categories: 
   - Programming
 tags: 
