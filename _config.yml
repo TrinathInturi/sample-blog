@@ -22,7 +22,7 @@ name                     : &name "Trinath Reddy Inturi"
 description              : &description "Personal Blog about Technology, Programming and Gaming"
 url                      : "https://trinathinturi.github.io"
 baseurl                  : 
-repository               : "trinathinturi.github.io"
+repository               : "trinathinturi/trinathinturi.github.io"
 teaser                   : "/assets/images/programming.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : "Titanis Blog"
