@@ -1,4 +1,13 @@
-# How to reset you linux password
+---
+title: "How to reset your linux password"
+categories:
+  - Tips and Tricks
+tags:
+  - Linux
+  - Security
+  - Recovery
+---
+# Resetting your linux password without Logging In
 
 Ever forgot your login password of you linux machine? We will there is simple solution for that which involves three simple steps
 
