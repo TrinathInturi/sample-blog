@@ -1,7 +1,7 @@
 ---
 title: "8 Marvel Movies You Need To Watch Before Avenger's End Game"
 categories:
-  - Entertainment`
+  - Entertainment
 tags:
   - Marvel
   - Binge Watch
