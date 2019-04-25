@@ -9,9 +9,9 @@ tags:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Avenger's Infinity War ended with Thanos wiping half of the universe holding the Infinity Gauntlet having all the six Infinity Stones (thought it was destroyed) earth mightiest heroes are to save the world with Avenger's End Game coming on screens on April 26. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;With this magnum opus coming marvel suggest few movies to it's viewers before going into theaters for those who are new to marvel universe or people who missed some movies.
+&nbsp;&nbsp;&nbsp;&nbsp;With this magnum opus coming marvel suggest few movies to it's viewers before going into theaters for those who are new to marvel universe or people who missed some movies.Fasten you seat belts for a 18 hours 8 minutes marathon.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Here are the 8 Marvel Movies you need to watch before going for the end game. Fasten you seat belts for a 18 hours 8 minutes marathon.
+## Here are the 8 Marvel Movies you need to watch before going for the end game. 
 
 1. Captain America: The First Avenger (2h 4m) [Hotstar](https://www.hotstar.com/movies/captain-america-the-first-avenger/1660000034),[Netflix](https://www.netflix.com/title/70153850)
 2. Captian Marvel (2h 5m) 
